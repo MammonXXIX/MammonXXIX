@@ -45,10 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MammonXXIX/MammonXXIX/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MammonXXIX/count.svg?"  />
 </div>
