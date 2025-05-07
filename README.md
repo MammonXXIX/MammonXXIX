@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### My Skills
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -14,3 +15,10 @@
 <a href="https://www.linkedin.com/in/randy-kurniawan-xxix" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+### My Stats
+<p>
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MammonXXIX&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MammonXXIX&layout=compact&langs_count=8&card_width=320" />
+</p>
